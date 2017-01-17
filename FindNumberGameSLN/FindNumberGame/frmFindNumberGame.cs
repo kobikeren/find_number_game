@@ -3,6 +3,11 @@ using System.Windows.Forms;
 
 namespace FindNumberGame
 {
+    //*******************************************************************
+    //****************** Created by kobi keren **************************
+    //******************     on 17/01/2017     **************************
+    //*******************************************************************
+
     public partial class frmFindNumberGame : Form
     {
         private Random random;
